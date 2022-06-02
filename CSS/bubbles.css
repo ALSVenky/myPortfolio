@@ -22,7 +22,7 @@ section h2:hover{
 
 } */
 
-section h5{
+/* section h5{
   position: absolute;
   bottom: -50px;
   background: transparent;
@@ -55,4 +55,4 @@ section h5::before{
    transform: translateY(-1200%);
    opacity: 0;
  }
-}
+} */

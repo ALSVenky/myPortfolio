@@ -6,8 +6,6 @@ body {
 
 
 }
-
-
 .container{
     position: relative;
 }
@@ -57,7 +55,7 @@ body {
 
 
 h1 {
-  font-size: 390%;
+  font-size: 350%;
   margin: 30px auto 0 auto;
 font-family: 'Kaushan Script', cursive;
 font-weight: normal;
@@ -97,7 +95,7 @@ color: #FFFF00;
 }
 
 .profile{
-color: #00FF00;
+color: #ff6347;
 font-size: 1.2rem;
 }
 
@@ -165,7 +163,8 @@ background-color: #FFF8DC;
 
 .bottom-container {
 background-color: hsl(172, 100%, 62%);
-font-family: 'Dancing Script', cursive;
+font-family: 'Kaushan Script', cursive;
+color: #ff6347;
 font-size: 1.3rem;
 padding-right: 100px;
 
@@ -175,7 +174,7 @@ padding-right: 100px;
 float: right;
 width: 5%;
 height: 14%;
-border-radius: 200px;
+/* border-radius: 200px; */
 
 }
 
@@ -201,43 +200,8 @@ border-radius: 200px;
 }
 
 a:hover {
-  color: #0000CD;
+  color: #0000AA;
 }
-
-
-/* .BUTTON_WFT {
-   -webkit-border-radius: 13px;
-   -moz-border-radius: 13px;
-   border-radius: 13px;
-   height: 0;
-   line-height: 0;
-   color: #F1D917;
-   font-family: Times New Roman;
-   width: 149px;
-   font-size: 24px;
-   font-weight: 100;
-   padding: 20px;
-   background-color: #3DD3F6;
-   -webkit-box-shadow: 1px 1px 43px 5px #16F7F7;
-   -moz-box-shadow: 1px 1px 43px 5px #16F7F7;
-   box-shadow: 1px 1px 43px 5px #16F7F7;
-   text-shadow: -42px -41px 15px #1FDFFF;
-   border: solid #1A9CDB 1px;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-}
-
-.BUTTON_WFT:hover {
-   background: lightgreen;
-   /* border: solid #2081FD 3px; */
-   /* color: tomato;
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 10px;
-   text-decoration: none;
-} */
 
 a{
   cursor: url("968417.jpg"), auto;
