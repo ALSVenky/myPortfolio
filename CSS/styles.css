@@ -83,13 +83,13 @@ color: #FFFF00;
 
 }
 
-.profile{
+/* .profile{
 
-}
+} */
 
 .skill-row{
 
-  font-family: 'Tangerine', cursive;
+  /* font-family: 'Tangerine', cursive; */
   font-size: 2rem;
   color: #FF00FF;
 }
@@ -122,9 +122,9 @@ text-align: center;
 }
 
 hr{
-  border: dotted 8px #00FF7F;
+  border: dotted 14px #00FF7F;
   border-bottom: none;
-  width: 5%;
+  width: 8%;
   margin: 80px auto 80px auto;
 
 }
